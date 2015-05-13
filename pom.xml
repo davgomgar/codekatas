@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>roman-numerals</module>
+        <module>string-calculator</module>
     </modules>
 
     <dependencyManagement>
